@@ -5,6 +5,7 @@ import (
 	"sync"
 
 	client_one "github.com/fenriz07/patrones-go/creacionales/01-singleton/client-one"
+	client_two "github.com/fenriz07/patrones-go/creacionales/01-singleton/client-two"
 	"github.com/fenriz07/patrones-go/creacionales/01-singleton/singleton"
 )
 
